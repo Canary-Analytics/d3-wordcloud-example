@@ -1,0 +1,29 @@
+{
+  "name": "d3-wordcloud",
+  "version": "1.0.0",
+  "description": "Easy Word Cloud using D3",
+  "main": "d3.wordcloud.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Losnen/d3-wordcloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Losnen/d3-wordcloud/issues"
+  },
+  "homepage": "https://github.com/Losnen/d3-wordcloud#readme",
+  "dependencies": {
+    "fs-extended": "^0.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
